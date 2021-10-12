@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+<details>
+  <summary>Texto</summary>
+_Uso de enfasis *en* un archivo-  md ⁉️_
+  
+ </details>
